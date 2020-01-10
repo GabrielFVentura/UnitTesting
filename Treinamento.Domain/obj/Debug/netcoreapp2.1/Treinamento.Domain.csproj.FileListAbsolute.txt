@@ -1,0 +1,16 @@
+D:\shared\Squadra-treinamento\Treinamento\Treinamento.Domain\bin\Debug\netcoreapp2.1\Treinamento.Domain.deps.json
+D:\shared\Squadra-treinamento\Treinamento\Treinamento.Domain\bin\Debug\netcoreapp2.1\Treinamento.Domain.dll
+D:\shared\Squadra-treinamento\Treinamento\Treinamento.Domain\bin\Debug\netcoreapp2.1\Treinamento.Domain.pdb
+D:\shared\Squadra-treinamento\Treinamento\Treinamento.Domain\obj\Debug\netcoreapp2.1\Treinamento.Domain.csprojAssemblyReference.cache
+D:\shared\Squadra-treinamento\Treinamento\Treinamento.Domain\obj\Debug\netcoreapp2.1\Treinamento.Domain.AssemblyInfoInputs.cache
+D:\shared\Squadra-treinamento\Treinamento\Treinamento.Domain\obj\Debug\netcoreapp2.1\Treinamento.Domain.AssemblyInfo.cs
+D:\shared\Squadra-treinamento\Treinamento\Treinamento.Domain\obj\Debug\netcoreapp2.1\Treinamento.Domain.dll
+D:\shared\Squadra-treinamento\Treinamento\Treinamento.Domain\obj\Debug\netcoreapp2.1\Treinamento.Domain.pdb
+C:\Users\gabriel.santos\Documents\Treinamento\Squadra-treinamento\Treinamento\Treinamento.Domain\bin\Debug\netcoreapp2.1\Treinamento.Domain.deps.json
+C:\Users\gabriel.santos\Documents\Treinamento\Squadra-treinamento\Treinamento\Treinamento.Domain\bin\Debug\netcoreapp2.1\Treinamento.Domain.dll
+C:\Users\gabriel.santos\Documents\Treinamento\Squadra-treinamento\Treinamento\Treinamento.Domain\bin\Debug\netcoreapp2.1\Treinamento.Domain.pdb
+C:\Users\gabriel.santos\Documents\Treinamento\Squadra-treinamento\Treinamento\Treinamento.Domain\obj\Debug\netcoreapp2.1\Treinamento.Domain.csprojAssemblyReference.cache
+C:\Users\gabriel.santos\Documents\Treinamento\Squadra-treinamento\Treinamento\Treinamento.Domain\obj\Debug\netcoreapp2.1\Treinamento.Domain.AssemblyInfoInputs.cache
+C:\Users\gabriel.santos\Documents\Treinamento\Squadra-treinamento\Treinamento\Treinamento.Domain\obj\Debug\netcoreapp2.1\Treinamento.Domain.AssemblyInfo.cs
+C:\Users\gabriel.santos\Documents\Treinamento\Squadra-treinamento\Treinamento\Treinamento.Domain\obj\Debug\netcoreapp2.1\Treinamento.Domain.dll
+C:\Users\gabriel.santos\Documents\Treinamento\Squadra-treinamento\Treinamento\Treinamento.Domain\obj\Debug\netcoreapp2.1\Treinamento.Domain.pdb

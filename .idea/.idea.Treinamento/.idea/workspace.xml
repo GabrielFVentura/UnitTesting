@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36106e27-4acd-4130-bce0-4a44f4fb6776" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Treinamento" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Treinamento.Domain/Contas/SaldoInsuficienteException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Treinamento.Domain/Contas/Saque.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Treinamento.UnitTest/ContaStatusTest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Treinamento.Domain/Contas/ETipoMovimentacao.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Treinamento.UnitTest/ContaAtivaTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Treinamento.Domain/Contas/Deposito.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Treinamento.Domain/Contas/IContaMovimentacao.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Treinamento.Domain/Contas/SaldoNegativoOuZeroException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Treinamento.Domain/Contas/ContaInativaException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Treinamento.Domain/Contas/SaqueMinException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Treinamento.Domain/IAggregateRoot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Treinamento.Domain/Contas/SaqueMaxException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Treinamento.UnitTest/ContaUnitTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Treinamento.Domain/Contas/Conta.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Treinamento.Domain/ContaCorrente.cs" />
+        <option value="$PROJECT_DIR$/Treinamento.Domain/IAgregateRoot.cs" />
+        <option value="$PROJECT_DIR$/Treinamento.Domain/ContasCorrente/ContaCorrente.cs" />
+        <option value="$PROJECT_DIR$/Treinamento.Domain/Class1.cs" />
+        <option value="$PROJECT_DIR$/Treinamento.Domain/IAggregateRoote.cs" />
+        <option value="$PROJECT_DIR$/Treinamento.Domain/IAggregateRoot.cs" />
+        <option value="$PROJECT_DIR$/Treinamento.UnitTest/Class1.cs" />
+        <option value="$PROJECT_DIR$/Treinamento.UnitTest/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/Treinamento.Domain/Contas/Deposito.cs" />
+        <option value="$PROJECT_DIR$/Treinamento.Domain/Contas/IContaMovimentacao.cs" />
+        <option value="$PROJECT_DIR$/Treinamento.Domain/Contas/Saque.cs" />
+        <option value="$PROJECT_DIR$/Treinamento.Domain/Contas/ETipoMovimentacao.cs" />
+        <option value="$PROJECT_DIR$/Treinamento.UnitTest/ContaStatusTest.cs" />
+        <option value="$PROJECT_DIR$/Treinamento.UnitTest/ContaAtivaTest.cs" />
+        <option value="$PROJECT_DIR$/Treinamento.Domain/Contas/SaldoInsuficienteException.cs" />
+        <option value="$PROJECT_DIR$/Treinamento.Domain/Contas/SaldoNegativoOuZeroException.cs" />
+        <option value="$PROJECT_DIR$/Treinamento.Domain/Contas/ContaInativaException.cs" />
+        <option value="$PROJECT_DIR$/Treinamento.Domain/Contas/SaldoMinimoException.cs" />
+        <option value="$PROJECT_DIR$/Treinamento.Domain/Contas/SaqueMinException.cs" />
+        <option value="$PROJECT_DIR$/Treinamento.Domain/Contas/SaqueMaxException.cs" />
+        <option value="$PROJECT_DIR$/Treinamento.Domain/Contas/Conta.cs" />
+        <option value="$PROJECT_DIR$/Treinamento.UnitTest/ContaUnitTest.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W9orxVCcYqRhLF77HxeS75SRgI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected=".NET Project.Treinamento.UnitTest">
+    <configuration name="Treinamento.UnitTest" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Treinamento.UnitTest/Treinamento.UnitTest.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36106e27-4acd-4130-bce0-4a44f4fb6776" name="Default Changelist" comment="" />
+      <created>1578571374251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578571374251</updated>
+      <workItem from="1578571377630" duration="672000" />
+      <workItem from="1578572084946" duration="5964000" />
+      <workItem from="1578579217636" duration="8082000" />
+      <workItem from="1578591851224" duration="63000" />
+      <workItem from="1578591947204" duration="1524000" />
+      <workItem from="1578596684045" duration="285000" />
+      <workItem from="1578597034871" duration="6465000" />
+      <workItem from="1578655239369" duration="10371000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="366" y="29" key="#Treinamento.UnitTest" timestamp="1578590473130">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="366" y="29" key="#Treinamento.UnitTest/0.0.1366.738@0.0.1366.738" timestamp="1578590473130" />
+    <state x="514" y="41" key="#Treinamento.UnitTest/0.0.1920.1050@0.0.1920.1050" timestamp="1578580308411" />
+    <state x="137" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578572043756">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1578572043756" />
+    <state width="1323" height="218" key="GridCell.Tab.0.bottom" timestamp="1578590708279">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1578590708279" />
+    <state width="1323" height="90" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578578183779" />
+    <state width="1323" height="218" key="GridCell.Tab.0.center" timestamp="1578590708279">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1578590708279" />
+    <state width="1323" height="90" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578578183779" />
+    <state width="1323" height="218" key="GridCell.Tab.0.left" timestamp="1578590708279">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1578590708279" />
+    <state width="1323" height="90" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578578183778" />
+    <state width="1323" height="218" key="GridCell.Tab.0.right" timestamp="1578590708279">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1578590708279" />
+    <state width="1323" height="90" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578578183779" />
+    <state width="1323" height="218" key="GridCell.Tab.1.bottom" timestamp="1578590708280">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1578590708280" />
+    <state width="1323" height="90" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578578183779" />
+    <state width="1323" height="218" key="GridCell.Tab.1.center" timestamp="1578590708279">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1578590708279" />
+    <state width="1323" height="90" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578578183779" />
+    <state width="1323" height="218" key="GridCell.Tab.1.left" timestamp="1578590708279">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1578590708279" />
+    <state width="1323" height="90" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578578183779" />
+    <state width="1323" height="218" key="GridCell.Tab.1.right" timestamp="1578590708279">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1578590708279" />
+    <state width="1323" height="90" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578578183779" />
+    <state width="1323" height="218" key="GridCell.Tab.2.bottom" timestamp="1578590708280">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.2.bottom/0.0.1366.738@0.0.1366.738" timestamp="1578590708280" />
+    <state width="1323" height="90" key="GridCell.Tab.2.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578578183780" />
+    <state width="1323" height="218" key="GridCell.Tab.2.center" timestamp="1578590708280">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.2.center/0.0.1366.738@0.0.1366.738" timestamp="1578590708280" />
+    <state width="1323" height="90" key="GridCell.Tab.2.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578578183779" />
+    <state width="1323" height="218" key="GridCell.Tab.2.left" timestamp="1578590708280">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.2.left/0.0.1366.738@0.0.1366.738" timestamp="1578590708280" />
+    <state width="1323" height="90" key="GridCell.Tab.2.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578578183779" />
+    <state width="1323" height="218" key="GridCell.Tab.2.right" timestamp="1578590708280">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.2.right/0.0.1366.738@0.0.1366.738" timestamp="1578590708280" />
+    <state width="1323" height="90" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578578183780" />
+    <state width="1323" height="218" key="GridCell.Tab.3.bottom" timestamp="1578590708280">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.3.bottom/0.0.1366.738@0.0.1366.738" timestamp="1578590708280" />
+    <state width="1323" height="90" key="GridCell.Tab.3.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578578183780" />
+    <state width="1323" height="218" key="GridCell.Tab.3.center" timestamp="1578590708280">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.3.center/0.0.1366.738@0.0.1366.738" timestamp="1578590708280" />
+    <state width="1323" height="90" key="GridCell.Tab.3.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578578183780" />
+    <state width="1323" height="218" key="GridCell.Tab.3.left" timestamp="1578590708280">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.3.left/0.0.1366.738@0.0.1366.738" timestamp="1578590708280" />
+    <state width="1323" height="90" key="GridCell.Tab.3.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578578183780" />
+    <state width="1323" height="218" key="GridCell.Tab.3.right" timestamp="1578590708280">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.3.right/0.0.1366.738@0.0.1366.738" timestamp="1578590708280" />
+    <state width="1323" height="90" key="GridCell.Tab.3.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578578183780" />
+    <state width="1323" height="218" key="GridCell.Tab.4.bottom" timestamp="1578590708281">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.4.bottom/0.0.1366.738@0.0.1366.738" timestamp="1578590708281" />
+    <state width="1323" height="90" key="GridCell.Tab.4.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578578183780" />
+    <state width="1323" height="218" key="GridCell.Tab.4.center" timestamp="1578590708280">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.4.center/0.0.1366.738@0.0.1366.738" timestamp="1578590708280" />
+    <state width="1323" height="90" key="GridCell.Tab.4.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578578183780" />
+    <state width="1323" height="218" key="GridCell.Tab.4.left" timestamp="1578590708280">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.4.left/0.0.1366.738@0.0.1366.738" timestamp="1578590708280" />
+    <state width="1323" height="90" key="GridCell.Tab.4.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578578183780" />
+    <state width="1323" height="218" key="GridCell.Tab.4.right" timestamp="1578590708281">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="218" key="GridCell.Tab.4.right/0.0.1366.738@0.0.1366.738" timestamp="1578590708281" />
+    <state width="1323" height="90" key="GridCell.Tab.4.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578578183780" />
+    <state x="235" y="91" key="Rider.ProjectTemplateDialog.Size" timestamp="1578573603332">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="235" y="91" key="Rider.ProjectTemplateDialog.Size/0.0.1366.738@0.0.1366.738" timestamp="1578573603332" />
+    <state x="468" y="45" key="RiderGenerateDialog" timestamp="1578575177216">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="468" y="45" key="RiderGenerateDialog/0.0.1366.738@0.0.1366.738" timestamp="1578575177216" />
+    <state x="259" y="17" key="SettingsEditor" timestamp="1578597051672">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="12" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1578589446228" />
+    <state x="259" y="17" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578597051672" />
+    <state x="616" y="241" key="run.anything.popup" timestamp="1578657106722">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="241" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578657106722" />
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1578582236134" />
+  </component>
+</project>

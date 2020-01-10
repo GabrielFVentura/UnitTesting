@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treinamento.Domain", "Treinamento.Domain\Treinamento.Domain.csproj", "{D00F984E-B8DE-4D12-B1E6-85943D0DABEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testes", "Testes", "{6E6059E7-5C62-42F7-A98F-BCBF9E710CF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treinamento.UnitTest", "Treinamento.UnitTest\Treinamento.UnitTest.csproj", "{5191C4FB-32CA-4F62-85B1-CB36E22F61AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D00F984E-B8DE-4D12-B1E6-85943D0DABEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00F984E-B8DE-4D12-B1E6-85943D0DABEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00F984E-B8DE-4D12-B1E6-85943D0DABEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00F984E-B8DE-4D12-B1E6-85943D0DABEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5191C4FB-32CA-4F62-85B1-CB36E22F61AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5191C4FB-32CA-4F62-85B1-CB36E22F61AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5191C4FB-32CA-4F62-85B1-CB36E22F61AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5191C4FB-32CA-4F62-85B1-CB36E22F61AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5191C4FB-32CA-4F62-85B1-CB36E22F61AB} = {6E6059E7-5C62-42F7-A98F-BCBF9E710CF9}
+	EndGlobalSection
+EndGlobal
